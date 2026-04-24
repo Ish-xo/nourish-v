@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "ai-grand-challenge-nourish-v",
+                    "appId": "1:94778493650:android:222ba5dc50e065759a7b0b",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "ai-grand-challenge-nourish-v",
+                    "configurations": {
+                        "android": "1:94778493650:android:222ba5dc50e065759a7b0b",
+                        "web": "1:94778493650:web:b965bc229cff8eea9a7b0b"
+                    }
+                }
+            }
+        }
+    }
+}
