@@ -3,7 +3,7 @@
 **AI-Powered Malnutrition Detection App**
 
 <p align="center">
-  <img src="assets/screenshots/dashboard.png" alt="Nourish V Dashboard" width="300"/>
+  <img src="assets/screenshots/dashboard.jpeg" alt="Nourish V Dashboard" width="300"/>
 </p>
 
 Nourish V is a Flutter-based mobile application developed for the **MIT-ADT AI Grand Challenge 2026**. It empowers rural healthcare workers (ASHA/Anganwadi staff) to detect and classify malnutrition in children under 5 years and pregnant women using AI-powered image analysis and WHO growth standards. The app features offline-first functionality, guided camera capture, and role-based access control with Firebase integration.
